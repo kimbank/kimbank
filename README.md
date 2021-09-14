@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=3d4a4f&text=金　恩　行&height=150&fontSize=77&animation=fadeIn&fontColor=258a71)](https://kimbank.github.io/)
+[![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=292929&text=金　恩　行&height=150&fontSize=77&animation=fadeIn&fontColor=258a71)](https://kimbank.github.io/)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx)](https://solved.ac/banlxx) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbank&theme=gotham&line_height=21&show_icons=true)](https://github.com/kimbank)
 
