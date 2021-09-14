@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=ffffff&text=金恩行&height=170&fontSize=100&animation=fadeIn&fontColor=000000)
 
-<center>
+
 
 [kimbank.github.io](https://kimbank.github.io/)
 
-</center>
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx)](https://solved.ac/banlxx)　[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbank&theme=gotham&line_height=20&show_icons=true)](https://github.com/kimbank)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx)](https://solved.ac/banlxx) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbank&theme=gotham&line_height=20&show_icons=true)](https://github.com/kimbank)
 
