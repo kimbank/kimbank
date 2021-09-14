@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=ffffff&text=金恩行&height=170&fontSize=100&animation=fadeIn&fontColor=000000)
-
-
-
-[kimbank.github.io](https://kimbank.github.io/)
+[![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=ffffff&text=金恩行&height=170&fontSize=100&animation=fadeIn&fontColor=000000)](https://kimbank.github.io/)
 
 
 
