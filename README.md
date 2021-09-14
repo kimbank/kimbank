@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 [![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=4e4e4e&text=金　恩　行&height=150&fontSize=100&animation=fadeIn&fontColor=ffffff)](https://kimbank.github.io/)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx)](https://solved.ac/banlxx) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbank&theme=gotham&line_height=20.99&show_icons=true)](https://github.com/kimbank)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx)](https://solved.ac/banlxx) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbank&theme=gotham&line_height=21&show_icons=true)](https://github.com/kimbank)
 
