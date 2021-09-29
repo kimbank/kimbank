@@ -3,7 +3,6 @@
 
 
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
 [![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=1f354a&text=金　恩　行&height=150&fontSize=77&animation=fadeIn&fontColor=ffffff)](https://kimbank.github.io/)
 
