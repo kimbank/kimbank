@@ -99,9 +99,9 @@ Here are some ideas to get you started:
 <h1 align="center">📫 How to reach me ...</h1>
 
 <p align="center">
-  <a href="https://twitter.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="mailto:kimeunhang@inha.edu" target="3776AB"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a>
+  <a href="https://discord.gg/dP4Y6Bekvz" target="3776AB"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+  <a href="https://twitter.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.kaggle.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
 </p>
 
