@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbank&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
+              
 
 
 
@@ -52,6 +51,11 @@ Here are some ideas to get you started:
   
 <!-- <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a> -->
 
+# ⚡ Fun fact: ...
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbank&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)     
+
+</br>
+</br>
 
 # 🔭 I’m currently working on ...
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
