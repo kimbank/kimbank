@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-<br/><br/>
+<!-- <br/><br/>
 <p align="center">
 <a href="https://twitter.com/kimeunhang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" alt="kimeunhang" height="30" width="40" /></a>
 <a href="https://instagram.com/banlxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="banlxx" height="30" width="40" /></a>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/file-icons/icons/e6e6e6ac8cb1d91867167c228c00a667f4d47101/svg/C%2B%2B.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ubuntu.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pytorch.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg"" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlecloud.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jekyll.svg" alt="jekyll" width="40" height="40"/> </a> 
-</p>
+</p> -->
 
 
 
@@ -52,9 +52,16 @@ Here are some ideas to get you started:
   
 <!-- <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a> -->
 
-# 🌱 I’m currently learning ...
+
+# 🔭 I’m currently working on ...
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+<a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+</br>
+</br>
+
+# 🌱 I’m currently learning ...
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
@@ -63,4 +70,3 @@ Here are some ideas to get you started:
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
