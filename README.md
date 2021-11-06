@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
               
 
-
-[![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=1f354a&text=金　恩　行&height=150&fontSize=77&animation=fadeIn&fontColor=ffffff)](https://kimbank.github.io/)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=1f354a&text=金　恩　行&height=150&fontSize=77&animation=fadeIn&fontColor=ffffff">
+</p>
 
 
 
@@ -48,18 +48,24 @@ Here are some ideas to get you started:
   
 <!-- <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a> -->
 
-<h1 align="center">⚡ Fun fact:　<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbank&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">　　　　　　　😄 Pronouns:　<a href="https://goldbank.dev">Gold Bank</a></h1>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx"></h1>
+<h1 align="center">😄 Pronouns:　<a href="https://goldbank.dev">Gold Bank</a>
+  </br>
+  ⚡ Fun fact:　　<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbank&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+</h1>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx" style="float: center">
+</p>
 </br>
 
-# 🔭 I’m currently working on ...
-<a href="https://www.iso.org/standard/74528.html" target="3776AB"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<a href="https://isocpp.org/" target="3776AB"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
-
-<a href="https://www.python.org/" target="3776AB"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-<a href="https://ubuntu.com/" target="3776AB"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
-
+<h1 align="center">🔭 I’m currently working on ...</h1>
+<p align="center">
+  <a href="https://www.iso.org/standard/74528.html" target="3776AB"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <a href="https://isocpp.org/" target="3776AB"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+  <a href="https://www.python.org/" target="3776AB"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="https://ubuntu.com/" target="3776AB"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+</p>
 
 
 </br>
@@ -67,19 +73,21 @@ Here are some ideas to get you started:
 
 
 
-# 🌱 I’m currently learning ...
+<h1 align="center">🌱 I’m currently learning ...</h1>
 <!-- $ 참고 링크 $ https://simpleicons.org/ -->
-
-<a href="https://www.tensorflow.org/" target="3776AB"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<a href="https://pytorch.org/" target="3776AB"><img src="https://img.shields.io/badge/PyTorch-3776AB?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-<a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
-<a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-
-<a href="https://www.typescriptlang.org/" target="3776AB"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
-<a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="3776AB"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<a href="https://html.spec.whatwg.org/multipage/" target="3776AB"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<a href="https://reactjs.org/" target="3776AB"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<p align="center">
+  <a href="https://www.tensorflow.org/" target="3776AB"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+  <a href="https://pytorch.org/" target="3776AB"><img src="https://img.shields.io/badge/PyTorch-3776AB?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
+  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="3776AB"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
+  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="3776AB"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="3776AB"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <a href="https://reactjs.org/" target="3776AB"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+</p>
 
 
 
