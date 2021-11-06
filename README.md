@@ -19,12 +19,8 @@ Here are some ideas to get you started:
 
 [![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=1f354a&text=金　恩　行&height=150&fontSize=77&animation=fadeIn&fontColor=ffffff)](https://kimbank.github.io/)
 
-<center>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx)](https://solved.ac/banlxx)
-</center>
-<center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbank&theme=gotham&line_height=17&show_icons=true)](https://github.com/kimbank)
-</center>
+
+
 
 
 <!-- <br/><br/>
@@ -75,3 +71,13 @@ Here are some ideas to get you started:
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+
+</br>
+</br>
+
+<center>
+     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx)](https://solved.ac/banlxx">
+</center>
+<!-- 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx)](https://solved.ac/banlxx)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbank&theme=gotham&line_height=17&show_icons=true)](https://github.com/kimbank) -->
