@@ -76,8 +76,9 @@ Here are some ideas to get you started:
 </br>
 
 <center>
-     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx)](https://solved.ac/banlxx">
+     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx">
 </center>
+
 <!-- 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx)](https://solved.ac/banlxx)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbank&theme=gotham&line_height=17&show_icons=true)](https://github.com/kimbank) -->
