@@ -17,13 +17,11 @@ Here are some ideas to get you started:
               
 
 
-
 [![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=1f354a&text=金　恩　行&height=150&fontSize=77&animation=fadeIn&fontColor=ffffff)](https://kimbank.github.io/)
 
-
-
+<center>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx)](https://solved.ac/banlxx) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbank&theme=gotham&line_height=17&show_icons=true)](https://github.com/kimbank)
-
+</center>
 
 
 <!-- <br/><br/>
