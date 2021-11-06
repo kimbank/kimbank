@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
 
 
 [![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=1f354a&text=金　恩　行&height=150&fontSize=77&animation=fadeIn&fontColor=ffffff)](https://kimbank.github.io/)
