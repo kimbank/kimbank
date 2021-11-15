@@ -47,7 +47,12 @@ Here are some ideas to get you started:
 
   
 <!-- <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a> -->
+<!-- $ 참고 링크 $ https://simpleicons.org/ -->
+<!-- *주의* 색상코드 입력시에 '#' 빼야함 -->
 
+
+
+<!----------------------------------------------------😄 Pronouns:-----------------------⚡ Fun fact:------------------------------------------------------------->
 <h1 align="center">😄 Pronouns:　<a href="https://goldbank.dev">Gold Bank</a>
   </br>
   ⚡ Fun fact:　　<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbank&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
@@ -55,31 +60,38 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx" style="float: center">
 </p>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
-
+</br>
+<!------------------------------------------------------🔭 I’m currently working on ...---------------------------------------------------------------------------->
 <h1 align="center">🔭 I’m currently working on ...</h1>
 <p align="center">
   <a href="https://www.iso.org/standard/74528.html" target="3776AB"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <a href="https://isocpp.org/" target="3776AB"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
   <a href="https://www.python.org/" target="3776AB"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 </p>
+
 <p align="center">
-  <a href="https://ubuntu.com/" target="3776AB"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/" target="3776AB"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/clion/" target="3776AB"><img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="3776AB"><img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/></a>
+  <a href="https://colab.sandbox.google.com/notebooks/welcome.ipynb?hl=en" target="3776AB"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/></a>
 </p>
 
-
+<p align="center">
+  <a href="https://www.microsoft.com/en-us/windows/windows-11" target="3776AB"><img src="https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+  <a href="https://ubuntu.com/" target="3776AB"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+</p>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
 </br>
-
-
-
+<!-------------------------------------------------------------🌱 I’m currently learning ...----------------------------------------------------------------------->
 <h1 align="center">🌱 I’m currently learning ...</h1>
-<!-- $ 참고 링크 $ https://simpleicons.org/ -->
 <p align="center">
   <a href="https://www.tensorflow.org/" target="3776AB"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
   <a href="https://pytorch.org/" target="3776AB"><img src="https://img.shields.io/badge/PyTorch-3776AB?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
-  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
+  <a href="https://pandas.pydata.org/" target="3776AB"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
+  <a href="https://numpy.org/" target="3776AB"><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 </p>
 <p align="center">
@@ -88,23 +100,24 @@ Here are some ideas to get you started:
   <a href="https://html.spec.whatwg.org/multipage/" target="3776AB"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <a href="https://reactjs.org/" target="3776AB"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 </p>
-
-
-
+<p align="center">
+  <a href="http://aws.amazon.com/" target="3776AB"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
+  <a href="https://azure.microsoft.com/" target="3776AB"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>
+  <a href="https://cloud.google.com/" target="3776AB"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>
+</p>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
 </br>
-
-
-
+<!----------------------------------------------------------------📫 How to reach me ...--------------------------------------------------------------------------->
 <h1 align="center">📫 How to reach me ...</h1>
-
 <p align="center">
   <a href="mailto:kimeunhang@inha.edu" target="3776AB"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EC%9D%80%ED%96%89-%EA%B9%80-442362214/" target="3776AB"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://discord.gg/dP4Y6Bekvz" target="3776AB"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
   <a href="https://twitter.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.kaggle.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
 </p>
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 </br>
