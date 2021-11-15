@@ -80,7 +80,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.microsoft.com/en-us/windows/windows-11" target="3776AB"><img src="https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+  <a href="https://www.apple.com/macos" target="3776AB"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>
   <a href="https://ubuntu.com/" target="3776AB"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+  <a href="https://centos.org/" target="3776AB"><img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
 </p>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
