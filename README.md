@@ -114,16 +114,26 @@ Here are some ideas to get you started:
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
 </br>
-<!------------------------------------------------------------------ 🔰 Competitions ...--------------------------------------------------------------------------->
-
-
-
+<!-- ---------------------------------------------------------------- 🔰 Competitions ...------------------------------------------------------------------------- -->
+<h1 align="center"> 🔰 Competitions ... </h1>
+<p align="center">
+  <a href="https://www.kaggle.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/banlxx" target="3776AB"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
+  <a href="https://www.acmicpc.net/user/banlxx" target="3776AB"><img src="https://img.shields.io/badge/BOJ-7BBB6E?style=flat-square&logo=Bloglovin&logoColor=white"/></a>
+  <a href="https://programmers.co.kr/pr/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Programmers-000000?style=flat-square&logo=Snapcraft&logoColor=white"/></a>
+</p>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
 </br>
-<!--------------------------------------------------------------------- 📜 Certificate ...------------------------------------------------------------------------>
-
-
+<!--------------------------------------------------------------------- 📜 Certificate ... ------------------------------------------------------------------------>
+<!-- <h1 align="center"> 📜 Certificate ... </h1>
+<p align="center">
+  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a>
+  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a>
+  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a>
+  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a>
+  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a>
+</p> -->
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
 </br>
@@ -134,7 +144,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/%EC%9D%80%ED%96%89-%EA%B9%80-442362214/" target="3776AB"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://discord.gg/dP4Y6Bekvz" target="3776AB"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
   <a href="https://twitter.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
 </p>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
