@@ -91,6 +91,7 @@ Here are some ideas to get you started:
 <h1 align="center">🌱 I’m currently learning ...</h1>
 <p align="center">
   <a href="https://www.tensorflow.org/" target="3776AB"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+  <a href="https://scikit-learn.org/stable/" target="3776AB"><img src="https://img.shields.io/badge/scikit–learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
   <a href="https://pytorch.org/" target="3776AB"><img src="https://img.shields.io/badge/PyTorch-3776AB?style=flat-square&logo=PyTorch&logoColor=white"/></a>
   <a href="https://pandas.pydata.org/" target="3776AB"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
   <a href="https://numpy.org/" target="3776AB"><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
