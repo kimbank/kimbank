@@ -74,19 +74,19 @@ Here are some ideas to get you started:
   <a href="https://www.python.org/" target="3776AB"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://code.visualstudio.com/" target="3776AB"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
   <a href="https://www.jetbrains.com/clion/" target="3776AB"><img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>
   <a href="https://www.jetbrains.com/pycharm/" target="3776AB"><img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/></a>
   <a href="https://colab.sandbox.google.com/notebooks/welcome.ipynb?hl=en" target="3776AB"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/></a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.microsoft.com/en-us/windows/windows-11" target="3776AB"><img src="https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
   <a href="https://www.apple.com/macos" target="3776AB"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>
   <a href="https://ubuntu.com/" target="3776AB"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
   <a href="https://centos.org/" target="3776AB"><img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
-</p>
+</p> -->
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
 </br>
