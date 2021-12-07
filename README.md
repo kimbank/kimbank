@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://goldbank.dev/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=1f354a&text=金　恩　行&height=150&fontSize=77&animation=fadeIn&fontColor=ffffff">
+    <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=1f354a&text=Kim Eunhang&height=150&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=金　恩　行&descAlign=90&descAlignY=70">
   </a>
 </p>
 
+
+<!-- chinese charater version -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=1f354a&text=金　恩　行&height=150&fontSize=77&animation=fadeIn&fontColor=ffffff"> -->
 
 
 
