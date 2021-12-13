@@ -64,8 +64,12 @@ Here are some ideas to get you started:
   ⚡ Fun fact:　　<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbank&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👀&edge_flat=false">
 </h1>
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx" style="float: center">
-  <img src="https://mazandi.herokuapp.com/api?handle=banlxx&theme=dark" style="float: center">
+  <a href="https://www.acmicpc.net/user/banlxx">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx" style="float: center">
+  </a>
+  <a href="https://solved.ac/profile/banlxx">
+    <img src="https://mazandi.herokuapp.com/api?handle=banlxx&theme=dark" style="float: center">
+  </a>
 </p>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
