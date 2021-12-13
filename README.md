@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 </h1>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx" style="float: center">
+  <img src="https://mazandi.herokuapp.com/api?handle=banlxx&theme=dark" style="float: center">
 </p>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
