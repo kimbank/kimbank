@@ -70,6 +70,7 @@ Here are some ideas to get you started:
   <a href="https://solved.ac/profile/banlxx">
     <img src="https://mazandi.herokuapp.com/api?handle=banlxx&theme=dark" style="float: center">
   </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kimbank&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
