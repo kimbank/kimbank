@@ -151,7 +151,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="mailto:kimeunhang@inha.edu" target="3776AB"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%9D%80%ED%96%89-%EA%B9%80-442362214/" target="3776AB"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://discord.gg/dP4Y6Bekvz" target="3776AB"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+<!--   <a href="https://discord.gg/dP4Y6Bekvz" target="3776AB"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a> -->
   <a href="https://twitter.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
