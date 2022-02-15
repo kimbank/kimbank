@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 <p align="center">
 <!--   <a href="https://www.typescriptlang.org/" target="3776AB"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a> -->
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="3776AB"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-  <a href="https://svelte.dev/" target="3776AB"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
+<!--   <a href="https://svelte.dev/" target="3776AB"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a> -->
   <a href="https://html.spec.whatwg.org/multipage/" target="3776AB"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <!--   <a href="https://reactjs.org/" target="3776AB"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> -->
 </p>
@@ -153,7 +153,7 @@ Here are some ideas to get you started:
   <a href="mailto:kimeunhang@inha.edu" target="3776AB"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%9D%80%ED%96%89-%EA%B9%80-442362214/" target="3776AB"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <!--   <a href="https://discord.gg/dP4Y6Bekvz" target="3776AB"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a> -->
-  <a href="https://twitter.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<!--   <a href="https://twitter.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
 </p>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
