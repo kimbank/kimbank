@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 
 
 <!----------------------------------------------------😄 Pronouns:-----------------------⚡ Fun fact:------------------------------------------------------------->
-<h1 align="center">😄 Pronouns:　<a href="https://goldbank.dev">Gold Bank <sub><sup>(blog)</sup></sub></a>
+<h1 align="center">
+<!--   😄 Pronouns:　<a href="https://goldbank.dev">Gold Bank <sub><sup>(blog)</sup></sub></a> -->
   </br>
   ⚡ Fun fact:　　<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbank&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👀&edge_flat=false">
 </h1>
@@ -76,12 +77,12 @@ Here are some ideas to get you started:
 </br>
 </br>
 <!------------------------------------------------------🔭 I’m currently working on ...---------------------------------------------------------------------------->
-<h1 align="center">🔭 I’m currently working on ...</h1>
+<!-- <h1 align="center">🔭 I’m currently working on ...</h1>
 <p align="center">
   <a href="https://www.iso.org/standard/74528.html" target="3776AB"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <a href="https://isocpp.org/" target="3776AB"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
   <a href="https://www.python.org/" target="3776AB"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://code.visualstudio.com/" target="3776AB"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
