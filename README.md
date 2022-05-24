@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 👑🏆🕹️🏅🚀💥🔰📃📑📜
 -->
-              
 
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://goldbank.dev/">
     <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=1f354a&text=Kim Eunhang&height=150&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=金　恩　行&descAlign=90&descAlignY=70">
   </a>
-</p>
-
+</p> -->
 
 <!-- chinese charater version -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=1f354a&text=金　恩　行&height=150&fontSize=77&animation=fadeIn&fontColor=ffffff"> -->
@@ -59,11 +58,17 @@ Here are some ideas to get you started:
 
 
 <!----------------------------------------------------😄 Pronouns:-----------------------⚡ Fun fact:------------------------------------------------------------->
-<h1 align="center">
-<!--   😄 Pronouns:　<a href="https://goldbank.dev">Gold Bank <sub><sup>(blog)</sup></sub></a> -->
+<!-- <h1 align="center">
+  😄 Pronouns:　<a href="https://goldbank.dev">Gold Bank <sub><sup>(blog)</sup></sub></a>
   </br>
-  ⚡ Fun fact:　　<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbank&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👀&edge_flat=false">
-</h1>
+  ⚡ Fun fact:　　
+</h1> -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2">
+</p>
+<p align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbank&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👀&edge_flat=false">
+</p>
 <p align="center">
   <a href="https://www.acmicpc.net/user/banlxx">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=banlxx" style="float: center">
@@ -73,6 +78,11 @@ Here are some ideas to get you started:
   </a>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kimbank&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2">
+</p>
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
 </br>
@@ -101,7 +111,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 <!-------------------------------------------------------------🌱 I’m currently learning ...----------------------------------------------------------------------->
-<h1 align="center">🌱 I’m currently learning ...</h1>
+<h1 align="center" >🌱 I’m currently learning ...</h1>
 <p align="center">
   <a href="https://www.tensorflow.org/" target="3776AB"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
   <a href="https://scikit-learn.org/stable/" target="3776AB"><img src="https://img.shields.io/badge/scikit–learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
