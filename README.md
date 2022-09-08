@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   ⚡ Fun fact:　　
 </h1> -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd700,100:2e8b57&height=2">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd700,100:2e8b57&height=1">
 </p>
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbank&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👀&edge_flat=false">
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e8b57,100:ffd700&height=2">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e8b57,100:ffd700&height=1">
 </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -125,32 +125,30 @@ Here are some ideas to get you started:
 </br>
 <!-------------------------------------------------------------🌱 I’m currently learning ...----------------------------------------------------------------------->
 <h1 align="center" >🌱 I’m currently learning ...</h1>
-<p align="center">
-  <a href="https://www.tensorflow.org/" target="3776AB"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-  <a href="https://scikit-learn.org/stable/" target="3776AB"><img src="https://img.shields.io/badge/scikit–learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
-  <a href="https://pytorch.org/" target="3776AB"><img src="https://img.shields.io/badge/PyTorch-3776AB?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-  <a href="https://pandas.pydata.org/" target="3776AB"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
-  <a href="https://numpy.org/" target="3776AB"><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
+<p align="center" id="Im currently learning...">
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+  <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit–learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-3776AB?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 </p>
-<p align="center">
-<!--   <a href="https://www.typescriptlang.org/" target="3776AB"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a> -->
-  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="3776AB"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<!--   <a href="https://svelte.dev/" target="3776AB"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a> -->
-  <a href="https://html.spec.whatwg.org/multipage/" target="3776AB"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<!--   <a href="https://reactjs.org/" target="3776AB"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> -->
+<p align="center" id="Im currently learning...">
+<!--   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a> -->
+  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
+  <a href="https://html.spec.whatwg.org/multipage/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<!--   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> -->
 </p>
-<p align="center">
-<!--   <a href="http://aws.amazon.com/" target="3776AB"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/></a> -->
-  <a href="https://azure.microsoft.com/" target="3776AB"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>
-  <a href="https://cloud.google.com/" target="3776AB"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>
+<p align="center" id="Im currently learning...">
+<!--   <a href="http://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/></a> -->
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>
 </p>
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
 </br>
 <!-- ---------------------------------------------------------------- 🔰 Competitions ...------------------------------------------------------------------------- -->
 <h1 align="center"> 🔰 Competitions ... </h1>
-<p align="center">
+<p align="center" id="Competitions...">
   <a href="https://www.kaggle.com/kimeunhang" target="3776AB"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/banlxx" target="3776AB"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
   <a href="https://www.acmicpc.net/user/banlxx" target="3776AB"><img src="https://img.shields.io/badge/BOJ-7BBB6E?style=flat-square&logo=Bloglovin&logoColor=white"/></a>
@@ -162,18 +160,21 @@ Here are some ideas to get you started:
 <!--------------------------------------------------------------------- 📜 Certificate ... ------------------------------------------------------------------------>
 <!-- <h1 align="center"> 📜 Certificate ... </h1>
 <p align="center">
-  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a>
-  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a>
-  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a>
-  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a>
-  <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a>
+  <ul>
+    <li>
+      <p>2022.10.?? - ADsP (데이터분석 준전문가)</p>
+    </li>
+    <li>
+      <p>2022.10.?? - Tensorflow Certificate (Tensorflow 개발자 인증서)</p>
+    </li>
+  </ul>
 </p> -->
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </br>
 </br>
 <!----------------------------------------------------------------📫 How to reach me ...-------------------------------------------------------------------------->
 <h1 align="center">📫 How to reach me ...</h1>
-<p align="center">
+<p align="center" id="How to reach me...">
   <a href="mailto:kimeunhang@inha.edu" target="3776AB"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://kr.linkedin.com/in/%EC%9D%80%ED%96%89-%EA%B9%80-442362214?trk=public_profile_browsemap" target="3776AB"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <!--   <a href="https://discord.gg/dP4Y6Bekvz" target="3776AB"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a> -->
