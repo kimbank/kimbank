@@ -76,6 +76,8 @@ Here are some ideas to get you started:
   </br>
   ⚡ Fun fact:　　
 </h1> -->
+
+<!--
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd700,100:2e8b57&height=1">
 </p>
@@ -94,6 +96,14 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e8b57,100:ffd700&height=1">
+</p>
+-->
+
+</br></br>
+<p align="center">
+  <a href="https://leetcode.com/kimeunhang/">
+    <img src="https://leetcard.jacoblin.cool/kimeunhang?ext=heatmap" />
+  </a>
 </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
