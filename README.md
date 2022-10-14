@@ -1,5 +1,5 @@
 <a href="https://labs.openai.com/s/9YrLTClNHE3tzsuqHPAr8TU3">
-  <img src="/profile_img.png" align="right" width="444"
+  <img src="/profile_img.png" align="right" width="50%"
      alt="a photo of a yellow cat from behind in front of computer, coding">
 </a>
 
