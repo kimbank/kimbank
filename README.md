@@ -26,7 +26,7 @@
   <li>
     <h3>인하대학교 (Inha University)</h3>
     <i>2021.03 ~ </i><br>
-    <s>경제학과 (Economics); original major, before change of major</s><br>
+    <!-- <s>경제학과 (Economics); original major, before change of major</s><br> -->
     <strong>컴퓨터공학과 (Computer Engineering)</strong><br>
 <!--     <i>Minor — 경제학과 (Economics)</i> -->
   </li>
@@ -106,7 +106,7 @@
 <br><br>
 
 
-<details class="--AWARD--" open>
+<details class="--AWARD--">
   <summary><h1>Award</h1></summary>
   <ul>
     <li>
@@ -142,7 +142,7 @@
 <br><br>
 
 
-<details class="--COMMUNITY--" open>
+<details class="--COMMUNITY--">
   <summary><h1>Community</h1></summary>
   <ul>
     <li>
@@ -164,14 +164,15 @@
 <br><br>
 
 
-<!--
-
 <details class="--CERTIFICATE--">
   <summary><h1>Certificate</h1></summary>
-  
+  None
 </details>
 
 <br><br>
+
+
+<!--
 
 
 <a href="https://codeforces.com/profile/banlxx">
