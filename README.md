@@ -89,22 +89,21 @@
 
 <br><br>
 
-
+<!--
 <h1 class="--EXPERIENCES--">
   Experiences
 </h1>
 <ul>
   <li>
-    <h3>인하대학교 (Inha University)</h3>
-    <i>2021.03 ~ </i><br>
-    <s>경제학과 (Economics); original major, before change of major</s><br>
-    <strong>컴퓨터공학과 (Computer Engineering)</strong><br>
+    <h3>인하대학교 감성인공지능 연구실 (Inha University - Affective AI Lab.) <a href="https://affctiv.ai/">site⇗</a></h3>
+    <i>2022.07 ~ </i><br>
+    <strong>학부연구생 (Undergraduate research student)</strong><br>
   </li>
 </ul>
 
 
 <br><br>
-
+-->
 
 <details class="--AWARD--">
   <summary><h1>Award</h1></summary>
@@ -164,15 +163,15 @@
 <br><br>
 
 
+<!--
+
+
 <details class="--CERTIFICATE--">
   <summary><h1>Certificate</h1></summary>
   None
 </details>
 
 <br><br>
-
-
-<!--
 
 
 <a href="https://codeforces.com/profile/banlxx">
