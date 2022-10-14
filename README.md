@@ -3,7 +3,7 @@
      alt="a photo of a yellow cat from behind in front of computer, coding">
 </a>
 
-<div><a href="#"><img src="/bumper.png" width="48%"></a></div>
+<div><a href="#"><img src="/bumper.png" width="44%"></a></div>
 
 <h1 class="--INTRODUCE--">
   Introduce
