@@ -1,4 +1,5 @@
 <!-- <a href="연결 링크"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a> -->
+<!-- https://simpleicons.org/ -->
 <a href="https://labs.openai.com/s/9YrLTClNHE3tzsuqHPAr8TU3">
   <img src="/profile_img.png" align="right" width="50%"
      alt="a photo of a yellow cat from behind in front of computer, coding">
@@ -8,6 +9,7 @@
 <a href="mailto:kimeunhang@inha.edu" target="3776AB"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://kr.linkedin.com/in/%EC%9D%80%ED%96%89-%EA%B9%80-442362214?trk=public_profile_browsemap" target="3776AB"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://kimbank.github.io"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>
+<a href="https://www.instagram.com/banlxx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <h1 class="--INTRODUCE--">
   Intro
