@@ -10,7 +10,7 @@
 <a href="https://kimbank.github.io"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>
 
 <h1 class="--INTRODUCE--">
-  Introduce
+  Intro
 </h1>
 
 <h3>Name : 김은행 (Kim Eunhang)</h3>
@@ -73,7 +73,7 @@
     </td>
     <td>
       <ul>
-        <h2>Collaboration</h2>
+        <h2>Collab</h2>
         <li>
           <h4>Git</h4>
           ⬤⬤⬤⬤◯ [4/5]<br><br>
@@ -100,7 +100,7 @@
       <i>2022.06 ~ 2022.08</i><br>
       <strong>여름 학부연구생 인턴쉽 (Undergraduate research student Internship)</strong><br>
       <a href="https://affctiv.ai/">affctiv.ai ⇗</a><br><br>
-      <code>#Intern</code> <code>#Artificial Intelligence</code><br><br>
+      <code>#Intern</code> <code>#Artificial Intelligence</code><br>
     </li>
   </ul>
 </details>
@@ -125,7 +125,7 @@
           인하대학교 총장 조명우
         </i></strong>
       </details>
-      <code>#Three.js</code> <code>#Static Web</code><br><br>
+      <code>#Three.js</code> <code>#Static Web</code><br>
     </li><br>
     <li>
       <h3>2021 INHA Creative Changer 프로젝트 — <a href="#">대상</a></h3>
@@ -138,7 +138,7 @@
           인하대학교 총장 조명우
         </i></strong>
       </details>
-      <code>#Imbedded</code> <code>#Prototyping</code><br><br>
+      <code>#Imbedded</code> <code>#Prototyping</code><br>
     </li>
   </ul>
 </details>
@@ -153,7 +153,7 @@
     <li>
       <h3>Google Developer Student Clubs — Lead</h3>
       <details>
-        <summary>2022-2023</summary>
+        <summary><i>2022-2023</i></summary>
         <br>GDSC Inha University Lead.<br>
         GDSC Inha University Core. (2021-2022)<br>
         GDSC Inha University Member. (2021)<br><br>
