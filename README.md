@@ -45,7 +45,6 @@
   <tr>
     <td>
       <ul>
-        <img src="/bumper.png" width="100%"/>
         <h2>AI</h2>
         <li>
           <h4>Python</h4>
@@ -55,11 +54,11 @@
           <h4>Tensorflow</h4>
           ⬤⬤◯◯◯ [2/5]<br><br>
         </li>
+        <img src="/bumper.png" width="100%"/>
       </ul>
     </td>
     <td>
       <ul>
-        <img src="/bumper.png" width="100%"/>
         <h2>BE</h2>
         <li>
           <h4>MySQL</h4>
@@ -69,11 +68,11 @@
           <h4>Spring (Java)</h4>
           ⬤⬤⬤◯◯ [3/5]<br><br>
         </li>
+        <img src="/bumper.png" width="100%"/>
       </ul>
     </td>
     <td>
       <ul>
-        <img src="/bumper.png" width="100%"/>
         <h2>Collaboration</h2>
         <li>
           <h4>Git</h4>
@@ -83,6 +82,7 @@
           <h4>&nbsp</h4>
           &nbsp<br><br>
         </dd>
+        <img src="/bumper.png" width="100%"/>
       </ul>
     </td>
   </tr>
