@@ -1,9 +1,13 @@
+<!-- <a href="연결 링크"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a> -->
 <a href="https://labs.openai.com/s/9YrLTClNHE3tzsuqHPAr8TU3">
   <img src="/profile_img.png" align="right" width="50%"
      alt="a photo of a yellow cat from behind in front of computer, coding">
 </a>
 
-<div><a href="#"><img src="/bumper.png" width="44%"></a></div>
+
+<a href="mailto:kimeunhang@inha.edu" target="3776AB"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://kr.linkedin.com/in/%EC%9D%80%ED%96%89-%EA%B9%80-442362214?trk=public_profile_browsemap" target="3776AB"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://kimbank.github.io"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>
 
 <h1 class="--INTRODUCE--">
   Introduce
@@ -11,9 +15,7 @@
 
 <h3>Name : 김은행 (Kim Eunhang)</h3>
 <h3>Birth : 2001.</h3>
-<br>
-<a href="mailto:kimeunhang@inha.edu" target="3776AB"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://kr.linkedin.com/in/%EC%9D%80%ED%96%89-%EA%B9%80-442362214?trk=public_profile_browsemap" target="3776AB"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+
 
 <br><br>
 
@@ -89,21 +91,23 @@
 
 <br><br>
 
-<!--
-<h1 class="--EXPERIENCES--">
-  Experiences
-</h1>
-<ul>
-  <li>
-    <h3>인하대학교 감성인공지능 연구실 (Inha University - Affective AI Lab.) <a href="https://affctiv.ai/">site⇗</a></h3>
-    <i>2022.07 ~ </i><br>
-    <strong>학부연구생 (Undergraduate research student)</strong><br>
-  </li>
-</ul>
+
+<details class="--EXPERIENCES--">
+  <summary><h1>Experiences</h1></summary>
+  <ul>
+    <li>
+      <h3>인하대학교 감성인공지능 연구실 (Inha University - Affective AI Lab.)</h3>
+      <i>2022.06 ~ 2022.08</i><br>
+      <strong>여름 학부연구생 인턴쉽 (Undergraduate research student Internship)</strong><br>
+      <a href="https://affctiv.ai/">affctiv.ai ⇗</a><br><br>
+      <code>#Intern</code> <code>#Artificial Intelligence</code><br><br>
+    </li>
+  </ul>
+</details>
 
 
 <br><br>
--->
+
 
 <details class="--AWARD--">
   <summary><h1>Award</h1></summary>
@@ -114,13 +118,14 @@
         <summary>발행: 인하대학교 공과대학 · 2022년 9월</summary>
         <br><strong>장마철 침수차량 방지 및 차량 침수사고 대비 기술</strong><br>
         위 기술을 모바일 및 데스크탑 환경의 웹에서 체험해 볼 수 있도록 시뮬레이션 웹페이지 개발<br>
-        <a href="https://goldbank.dev/2022-Eureka">goldbank.dev/2022-Eureka</a><br>
-        <a href="https://www.inha.ac.kr/kr/952/subview.do?&enc=Zm5jdDF8QEB8JTJGYmJzJTJGa3IlMkYxMSUyRjMyMzI2JTJGYXJ0Y2xWaWV3LmRvJTNG">Award Ceremony</a><br><br>
+        <a href="https://goldbank.dev/2022-Eureka">goldbank.dev/2022-Eureka ⇗</a><br>
+        <a href="https://www.inha.ac.kr/kr/952/subview.do?&enc=Zm5jdDF8QEB8JTJGYmJzJTJGa3IlMkYxMSUyRjMyMzI2JTJGYXJ0Y2xWaWV3LmRvJTNG">Award Ceremony ⇗</a><br><br>
         <strong><i>
           인하제 2022-0456호<br>
           인하대학교 총장 조명우
         </i></strong>
       </details>
+      <code>#Three.js</code> <code>#Static Web</code><br><br>
     </li><br>
     <li>
       <h3>2021 INHA Creative Changer 프로젝트 — <a href="#">대상</a></h3>
@@ -133,6 +138,7 @@
           인하대학교 총장 조명우
         </i></strong>
       </details>
+      <code>#Imbedded</code> <code>#Prototyping</code><br><br>
     </li>
   </ul>
 </details>
@@ -148,7 +154,7 @@
       <h3>Google Developer Student Clubs — Lead</h3>
       <details>
         <summary>2022-2023</summary>
-        GDSC Inha University Lead.<br>
+        <br>GDSC Inha University Lead.<br>
         GDSC Inha University Core. (2021-2022)<br>
         GDSC Inha University Member. (2021)<br><br>
         <a href="https://gdscinha.github.io/"><img src="https://img.shields.io/badge/Site-4285F4?style=flat-square&logo=Google-Home&logoColor=white"/></a>
