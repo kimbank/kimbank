@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 
   
-<!-- <a href="연결 링크" target="3776AB"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a> -->
+<!-- <a href="연결 링크"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a> -->
 <!-- $ 참고 링크 $ https://simpleicons.org/ -->
 <!-- *주의* 색상코드 입력시에 '#' 빼야함 -->
 
