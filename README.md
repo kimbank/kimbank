@@ -30,9 +30,12 @@
   <li>
     <h3>인하대학교 (Inha University)</h3>
     <i>2021.03 ~ </i><br>
-    <!-- <s>경제학과 (Economics); original major, before change of major</s><br> -->
     <strong>컴퓨터공학과 (Computer Engineering)</strong><br>
-<!--     <i>Minor — 경제학과 (Economics)</i> -->
+    <details>
+      <summary><i><sub>original major, before change of major</sub></i></summary>
+      <sub><i>2021.03 ~ 2022.03</i><br>
+      경제학과 (Economics)<br></sub>
+    </details>
   </li>
 </ul>
 
