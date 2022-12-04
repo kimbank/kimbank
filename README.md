@@ -30,7 +30,7 @@
   <li>
     <h3>인하대학교 (Inha University)</h3>
     <i>2021.03 ~ </i><br>
-    <strong>컴퓨터공학과 (Computer Engineering)</strong><br>
+    <strong>컴퓨터공학과 (Computer Engineering) </strong><i><sub>Class of 2021</sub></i><br>
     <details>
       <summary><i><sub>original major, before change of major</sub></i></summary>
       <sub><i>2021.03 ~ 2022.03</i><br>
