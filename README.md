@@ -53,7 +53,7 @@
         <h2>AI</h2>
         <li>
           <h4>Python</h4>
-          ⬤⬤◯◯◯ [4/5]<br><br>
+          ⬤⬤⬤◯◯ [4/5]<br><br>
         </li>
         <li>
           <h4>Tensorflow</h4>
