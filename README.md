@@ -53,11 +53,11 @@
         <h2>AI</h2>
         <li>
           <h4>Python</h4>
-          ⬤⬤⬤◯◯ [4/5]<br><br>
+          ⬤◯◯◯◯ [1/5]<br><br>
         </li>
         <li>
           <h4>Tensorflow</h4>
-          ⬤◯◯◯◯ [2/5]<br><br>
+          ⬤◯◯◯◯ [1/5]<br><br>
         </li>
         <img src="/bumper.png" width="100%"/>
       </ul>
@@ -67,11 +67,11 @@
         <h2>BE</h2>
         <li>
           <h4>MySQL</h4>
-          ⬤⬤◯◯◯ [2/5]<br><br>
+          ⬤◯◯◯◯ [1/5]<br><br>
         </li>
         <li>
           <h4>Spring (Java)</h4>
-          ⬤◯◯◯◯ [3/5]<br><br>
+          ⬤◯◯◯◯ [1/5]<br><br>
         </li>
         <img src="/bumper.png" width="100%"/>
       </ul>
