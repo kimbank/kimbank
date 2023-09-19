@@ -102,7 +102,7 @@
   <ul>
     <li>
       <h3>인하대학교 감성인공지능 연구실 (Inha University - Affective AI Lab.)</h3>
-      <i>2022.06 ~ Present</i><br>
+      <i>2022.06 ~ 2023.02</i><br>
       <strong>여름 학부연구생 인턴쉽 (Undergraduate research student Internship)</strong><br>
       <a href="https://affctiv.ai/">affctiv.ai ⇗</a><br><br>
       <code>#Intern</code> <code>#Artificial Intelligence</code><br>
@@ -123,7 +123,7 @@
         <summary>발행: 인하대학교 공과대학 · 2022년 9월</summary>
         <br><strong>장마철 침수차량 방지 및 차량 침수사고 대비 기술</strong><br>
         위 기술을 모바일 및 데스크탑 환경의 웹에서 체험해 볼 수 있도록 시뮬레이션 웹페이지 개발<br>
-        <a href="https://goldbank.dev/2022-Eureka">goldbank.dev/2022-Eureka ⇗</a><br>
+        <a href="https://kimbank.github.io/2022-Eureka">kimbank.github.io/2022-Eureka ⇗</a><br>
         <a href="https://www.inha.ac.kr/kr/952/subview.do?&enc=Zm5jdDF8QEB8JTJGYmJzJTJGa3IlMkYxMSUyRjMyMzI2JTJGYXJ0Y2xWaWV3LmRvJTNG">Award Ceremony ⇗</a><br><br>
         <strong><i>
           인하제 2022-0456호<br>
