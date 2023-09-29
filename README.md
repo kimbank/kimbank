@@ -20,8 +20,9 @@
   Intro
 </h1>
 
-<h3>Name : 김은행 (Kim Eunhang)</h3>
-<h3>Birth : 2001.</h3>
+<strong>Name : 김은행 (Kim Eunhang)</strong>
+
+<strong>Birth : 2001.</strong>
 
 
 <br><br>
@@ -33,7 +34,7 @@
 </h1>
 <ul>
   <li>
-    <h3>인하대학교 (Inha University)</h3>
+    <strong>인하대학교 (Inha University)</strong>
     <i>2021.03 ~ </i><br>
     <strong>컴퓨터공학과 (Computer Engineering) </strong><i><sub>Class of 2021</sub></i><br>
     <details>
