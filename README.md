@@ -106,7 +106,7 @@
 <br><br> -->
 
 
-<details class="--EXPERIENCES--">
+<details class="--EXPERIENCES--" open="true">
   <summary><h1>Experiences</h1></summary>
   <ul>
     <li>
@@ -130,20 +130,20 @@
 <br><br>
 
 
-<details class="--AWARD--">
+<details class="--AWARD--" open="true">
   <summary><h1>Award</h1></summary>
   <ul>
     <li>
       <h3>2023 Startup Express Winter Season 창업경진대회 - <a href="">장려상</a></h3>
-      <details>
+      <details open="true">
         <summary>발행: 고려대학교 경영대학 · 2023년 12월</summary>
-        <br><strong>꼭 맞는 사람만 신중하게 연결해주는 연애정보회사</strong><br>
+        <br><strong>당신의 연애정보회사, 온리유</strong><br>
         <br>
-        44개 조건과 편지를 수집하여, 수집된 모든 정보들을 바탕으로 모든 남·여 유저들에 대한 적합도를 계산하여 적합한 쌍에 대해 매칭을 공개하는 시스템 개발 <br>
+        44개 조건과 편지를 수집하여, 수집된 모든 정보들을 바탕으로 모든 남·여 유저들에 대한 적합도를 계산하여 적합한 쌍에 대해 매칭을 공개하는 서비스 개발 <br>
         Front-end는 Next.js로 개발 하였으며, mobile은 개발하지 않음. <br>
         Back-end는 FastAPI로 구현하였으며, 점수 계산 시스템도 해당 서비스에 탑재. <br>
-        RDBMS는 MySQL을 이용.
-        <a href=""></a><br>
+        RDBMS는 MySQL을 이용.<br>
+        <a href="https://www.startupstation.co.kr/company/%EC%9E%84%ED%8C%A9%ED%8A%B8%20%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8">KUBS Startup Station 츄츄 16기 임팩트크래프트 ⇗</a><br>
         <a href=""></a><br><br>
         <strong><i>
           제 2023-창업 24호<br>
@@ -154,7 +154,7 @@
     </li><br>
     <li>
       <h3>2022 인하 발명아이디어 경진대회 — <a href="https://drive.google.com/file/d/14PXVgyY50LKVqji6asRa6XkOS3dJu2Mi/view?usp=sharing">대상</a></h3>
-      <details>
+      <details open="true">
         <summary>발행: 인하대학교 공과대학 · 2022년 9월</summary>
         <br><strong>장마철 침수차량 방지 및 차량 침수사고 대비 기술 시뮬레이션</strong><br>
         위 기술을 모바일 및 데스크탑 환경의 웹에서 체험해 볼 수 있도록 시뮬레이션 웹페이지 개발<br>
@@ -169,7 +169,7 @@
     </li><br>
     <li>
       <h3>2021 INHA Creative Changer 프로젝트 — <a href="#">대상</a></h3>
-      <details>
+      <details open="true">
         <summary>발행: 인하대학교 교수학습개발센터 · 2022년 1월</summary>
         <br><strong>치안과 환경 문제 해소를 위한 스마트 가로등</strong><br>
         아두이노 프로그래밍을 통해 디스플레이가 부착된 가로등 프로토타이핑<br><br>
@@ -187,12 +187,12 @@
 <br><br>
 
 
-<details class="--COMMUNITY--">
+<details class="--COMMUNITY--" open="true">
   <summary><h1>Community</h1></summary>
   <ul>
     <li>
       <h3>Google Developer Student Clubs — Lead</h3>
-      <details>
+      <details open="true">
         <summary><i>2022-2023</i></summary>
         <br>GDSC Inha University Lead.<br>
         GDSC Inha University Core. (2021-2022)<br>
