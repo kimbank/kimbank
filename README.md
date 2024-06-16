@@ -114,14 +114,41 @@
       <i>2024.04 ~ </i><br>
       <strong>학부연구생 인턴쉽 (Undergraduate Student Researcher · Internship)</strong><br>
       <a href="https://dnslab-inha.github.io/">dnslab-inha.github.io ⇗</a><br><br>
-      <code>#Intern</code> <code>#Computer Network</code><br>
+      <code>Intern</code>, <code>Computer Network</code><br>
     </li>
     <li>
       <h3>인하대학교 감성인공지능 연구실 (Inha University - Affective AI Lab.)</h3>
       <i>2022.06 ~ 2023.02</i><br>
       <strong>학부연구생 인턴쉽 (Undergraduate Student Researcher · Internship)</strong><br>
       <a href="https://affctiv.ai/">affctiv.ai ⇗</a><br><br>
-      <code>#Intern</code> <code>#Artificial Intelligence</code><br>
+      <code>Intern</code>, <code>Artificial Intelligence</code><br>
+    </li>
+  </ul>
+</details>
+
+
+<br><br>
+
+
+<details class="--PROJECTS--" open="true">
+  <summary><h1>Projects</h1></summary>
+  <ul>
+    <li>
+      <h3>당신의 연애정보회사, 온리유</h3>
+      <i>2023.04 ~ 2024.03</i><br>
+      <strong>개발총괄</strong><br>
+      <br>
+      44개 조건과 편지를 수집하여, 수집된 모든 정보들을 바탕으로 모든 남·여 유저들에 대한 적합도를 계산하여 적합한 쌍에 대해 매칭을 공개하는 서비스 개발
+      FE, BE, DB에 대한 개발을 총괄하여 운영 가능한 서비스를 구현, MVP 이후에는 기존 FastAPI를 NestJS로 MySQL을 MongoDB로 리뉴얼 및 이관 진행
+      가입자 1,300명, 제안한 매칭 17,000쌍, 성사된 매칭 1,000쌍 (2024.06 기준)<br>
+      <br>
+      서비스 페이지: <a href="https://onlyou.co.kr/">onlyou.co.kr ⇗</a><br>
+      창업보육 선정: <a href="https://www.startupstation.co.kr/company/%EC%9E%84%ED%8C%A9%ED%8A%B8%20%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8">KUBS Startup Station 츄츄 16기 임팩트크래프트 ⇗</a><br>
+      <br>
+      FE. <code>Next.js</code><br>
+      BE. <code>FastAPI</code>, <code>NestJS</code><br>
+      DB. <code>MySQL</code>, <code>MongoDB</code><br>
+      ETC. <code>Jenkins</code>, <code>Nginx</code><br>
     </li>
   </ul>
 </details>
@@ -140,9 +167,7 @@
         <br><strong>당신의 연애정보회사, 온리유</strong><br>
         <br>
         44개 조건과 편지를 수집하여, 수집된 모든 정보들을 바탕으로 모든 남·여 유저들에 대한 적합도를 계산하여 적합한 쌍에 대해 매칭을 공개하는 서비스 개발 <br>
-        Front-end는 Next.js로 개발 하였으며, mobile은 개발하지 않음. <br>
-        Back-end는 FastAPI로 구현하였으며, 점수 계산 시스템도 해당 서비스에 탑재. <br>
-        RDBMS는 MySQL을 이용.<br>
+        가입자 1,300명, 제안한 매칭 17,000쌍, 성사된 매칭 1,000쌍 (2024.06 기준)
         <a href="https://www.startupstation.co.kr/company/%EC%9E%84%ED%8C%A9%ED%8A%B8%20%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8">KUBS Startup Station 츄츄 16기 임팩트크래프트 ⇗</a><br>
         <a href=""></a><br><br>
         <strong><i>
@@ -150,7 +175,7 @@
           스타트업 연구원장
         </i></strong>
       </details>
-      <code>#Next.js</code> <code>#FastAPI</code><br>
+      <code>Next.js</code>, <code>FastAPI</code><br>
     </li><br>
     <li>
       <h3>2022 인하 발명아이디어 경진대회 — <a href="https://drive.google.com/file/d/14PXVgyY50LKVqji6asRa6XkOS3dJu2Mi/view?usp=sharing">대상</a></h3>
@@ -165,7 +190,7 @@
           인하대학교 총장 조명우
         </i></strong>
       </details>
-      <code>#Three.js</code> <code>#Static Web</code><br>
+      <code>Three.js</code>, <code>Static Web</code><br>
     </li><br>
     <li>
       <h3>2021 INHA Creative Changer 프로젝트 — <a href="#">대상</a></h3>
@@ -178,7 +203,7 @@
           인하대학교 총장 조명우
         </i></strong>
       </details>
-      <code>#Imbedded</code> <code>#Prototyping</code><br>
+      <code>Imbedded</code>, <code>Prototyping</code><br>
     </li>
   </ul>
 </details>
