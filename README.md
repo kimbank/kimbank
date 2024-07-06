@@ -106,7 +106,7 @@
 <br><br> -->
 
 
-<details class="--EXPERIENCES--" open="true">
+<details class="--EXPERIENCES--">
   <summary><h1>Experiences</h1></summary>
   <ul>
     <li>
@@ -130,7 +130,7 @@
 <br><br>
 
 
-<details class="--PROJECTS--" open="true">
+<details class="--PROJECTS--">
   <summary><h1>Projects</h1></summary>
   <ul>
     <li>
@@ -157,7 +157,7 @@
 <br><br>
 
 
-<details class="--AWARD--" open="true">
+<details class="--AWARD--">
   <summary><h1>Award</h1></summary>
   <ul>
     <li>
@@ -212,7 +212,7 @@
 <br><br>
 
 
-<details class="--COMMUNITY--" open="true">
+<details class="--COMMUNITY--">
   <summary><h1>Community</h1></summary>
   <ul>
     <li>
