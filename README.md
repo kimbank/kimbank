@@ -19,6 +19,7 @@
 <a href="https://kimbank.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 -->
 
+<!--
 <h1 class="--INTRODUCE--">
   Intro
 </h1>
@@ -29,7 +30,7 @@
 
 
 <br><br>
-
+-->
 
 
 <h1 class="--EDUCATION--">
