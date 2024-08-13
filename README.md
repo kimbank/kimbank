@@ -117,13 +117,13 @@
       <a href="https://dnslab-inha.github.io/">dnslab-inha.github.io ⇗</a><br><br>
       <code>Intern</code>, <code>Computer Network</code><br>
     </li>
-    <li>
+<!--     <li>
       <h3>인하대학교 감성인공지능 연구실 (Inha University - Affective AI Lab.)</h3>
       <i>2022.06 ~ 2023.02</i><br>
       <strong>학부연구생 인턴쉽 (Undergraduate Student Researcher · Internship)</strong><br>
       <a href="https://affctiv.ai/">affctiv.ai ⇗</a><br><br>
       <code>Intern</code>, <code>Artificial Intelligence</code><br>
-    </li>
+    </li> -->
   </ul>
 </details>
 
