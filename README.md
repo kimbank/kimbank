@@ -107,7 +107,7 @@
 <br><br> -->
 
 
-<details class="--EXPERIENCES--">
+<details open class="--EXPERIENCES--">
   <summary><h1>Experiences</h1></summary>
   <ul>
     <li>
@@ -131,7 +131,7 @@
 <br><br>
 
 
-<details class="--PROJECTS--">
+<details open class="--PROJECTS--">
   <summary><h1>Projects</h1></summary>
   <ul>
     <li>
@@ -158,7 +158,7 @@
 <br><br>
 
 
-<details class="--AWARD--">
+<details open class="--AWARD--">
   <summary><h1>Award</h1></summary>
   <ul>
     <li>
@@ -194,7 +194,7 @@
       <code>Three.js</code>, <code>Static Web</code><br>
     </li><br>
     <li>
-      <h3>2021 INHA Creative Changer 프로젝트 — <a href="#">대상</a></h3>
+      <h3>2021 INHA Creative Changer 프로젝트 — <a href="https://drive.google.com/file/d/1DDlGOPiZ3p7G0GwTyxNuSP1Hhnc3LdBC/view?usp=sharing">대상</a></h3>
       <details open="true">
         <summary>발행: 인하대학교 교수학습개발센터 · 2022년 1월</summary>
         <br><strong>치안과 환경 문제 해소를 위한 스마트 가로등</strong><br>
@@ -213,7 +213,7 @@
 <br><br>
 
 
-<details class="--COMMUNITY--">
+<details open class="--COMMUNITY--">
   <summary><h1>Community</h1></summary>
   <ul>
     <li>
@@ -223,7 +223,7 @@
         <br>GDSC Inha University Lead.<br>
         GDSC Inha University Core. (2021-2022)<br>
         GDSC Inha University Member. (2021)<br><br>
-        <a href="https://gdscinha.github.io/"><img src="https://img.shields.io/badge/Site-4285F4?style=flat-square&logo=Google-Home&logoColor=white"/></a>
+        <a href="https://gdsc.inha.ac.kr"><img src="https://img.shields.io/badge/Site-4285F4?style=flat-square&logo=Google-Home&logoColor=white"/></a>
         <a href="https://github.com/GDSCINHA"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
         <a href="https://www.instagram.com/gdsc.inha/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
       </details>
