@@ -115,7 +115,7 @@
   <ul>
     <li>
       <h3>인하대학교 분산 네트워크 시스템 연구실 (Inha University - Distributed Network System Lab.)</h3>
-      <i>2024.04 ~ 2024.12</i><br>
+      <i>2024.04 ~ 2025.01</i><br>
       <strong>학부연구생 인턴쉽 (Undergraduate Student Researcher · Internship)</strong><br>
       <a href="https://dnslab-inha.github.io/">dnslab-inha.github.io ⇗</a><br><br>
       <code>Intern</code>, <code>Computer Network</code><br>
