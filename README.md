@@ -1,12 +1,12 @@
 <!-- <a href="연결 링크"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a> -->
 <!-- https://simpleicons.org/ -->
 
-<!--
+
 <a href="https://labs.openai.com/s/9YrLTClNHE3tzsuqHPAr8TU3">
-  <img src="/profile_img.png" align="right" width="50%"
+  <img src="/profile_img.png" align="right" width="40%"
      alt="a photo of a yellow cat from behind in front of computer, coding">
 </a>
--->
+
 
 <span>
   <!-- 
