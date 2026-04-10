@@ -1,3 +1,12 @@
+<!-- <pre align="center">
+██╗  ██╗ ██╗ ███╗   ███╗     ██████╗   █████╗  ███╗   ██╗ ██╗  ██╗
+██║ ██╔╝ ██║ ████╗ ████║     ██╔══██╗ ██╔══██╗ ████╗  ██║ ██║ ██╔╝
+█████╔╝  ██║ ██╔████╔██║     ██████╔╝ ███████║ ██╔██╗ ██║ █████╔╝ 
+██╔═██╗  ██║ ██║╚██╔╝██║     ██╔══██╗ ██╔══██║ ██║╚██╗██║ ██╔═██╗ 
+██║  ██╗ ██║ ██║ ╚═╝ ██║     ██████╔╝ ██║  ██║ ██║ ╚████║ ██║  ██╗
+╚═╝  ╚═╝ ╚═╝ ╚═╝     ╚═╝     ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝
+</pre> -->
+
 <!-- <a href="연결 링크"><img src="https://img.shields.io/badge/브랜드 이름-색상 코드?style=flat-square&logo=브랜드이름&logoColor=white"/></a> -->
 <!-- https://simpleicons.org/ -->
 
@@ -9,18 +18,26 @@
 
 
 <span>
+  kimbank@kimbank.dev <br/>
+  안녕하세요. <br/>
+  こんにちは。
   <!-- 
   <a href="mailto:kimeunhang@inha.edu" target="3776AB"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   -->
+  <!--
   <a href="https://kr.linkedin.com/in/%EC%9D%80%ED%96%89-%EA%B9%80-442362214?trk=public_profile_browsemap" target="3776AB"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  -->
   <!--
   <a href="https://kimbank.github.io"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>
   -->
   <!--
   <a href="https://kimbank.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
   -->
+  <!--
   <a href="https://blog.naver.com/banlxx"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  -->
 </span>
+
 
 <!--
 <h1 class="--INTRODUCE--">
@@ -36,7 +53,7 @@
 -->
 
 
-<h1 class="--EDUCATION--">
+<!-- <h1 class="--EDUCATION--">
   Education
 </h1>
 <ul>
@@ -44,16 +61,13 @@
     <strong>인하대학교 (Inha University)</strong>
     <i>2021.03 ~ 2025.08</i><br>
     <strong>컴퓨터공학과 (Computer Engineering) </strong><i><sub>Class of 2021</sub></i><br>
-<!--     <details>
-      <summary><i><sub>original major, before change of major</sub></i></summary>
-      <sub><i>2021.03 ~ 2022.03</i><br>
-      경제학과 (Economics)<br></sub>
-    </details> -->
   </li>
 </ul>
 
 
-<br><br>
+<br><br> -->
+
+
 <!-- ⬤◯ -->
 <!--
 <h1 class="--SKILLS--">
@@ -110,7 +124,7 @@
 <br><br> -->
 
 
-<details class="--EXPERIENCES--">
+<!-- <details class="--EXPERIENCES--">
   <summary><h1>Experiences</h1></summary>
   <ul>
     <li>
@@ -120,21 +134,21 @@
       <a href="https://dnslab-inha.github.io/">dnslab-inha.github.io ⇗</a><br><br>
       <code>Intern</code>, <code>Computer Network</code><br>
     </li>
-<!--     <li>
+    <li>
       <h3>인하대학교 감성인공지능 연구실 (Inha University - Affective AI Lab.)</h3>
       <i>2022.06 ~ 2023.02</i><br>
       <strong>학부연구생 인턴쉽 (Undergraduate Student Researcher · Internship)</strong><br>
       <a href="https://affctiv.ai/">affctiv.ai ⇗</a><br><br>
       <code>Intern</code>, <code>Artificial Intelligence</code><br>
-    </li> -->
+    </li>
   </ul>
 </details>
 
 
-<br><br>
+<br><br> -->
 
 
-<details class="--PROJECTS--">
+<!-- <details class="--PROJECTS--">
   <summary><h1>Projects</h1></summary>
   <ul>
     <li>
@@ -158,10 +172,10 @@
 </details>
 
 
-<br><br>
+<br><br> -->
 
 
-<details class="--AWARD--">
+<!-- <details class="--AWARD--">
   <summary><h1>Award</h1></summary>
   <ul>
     <li>
@@ -213,10 +227,10 @@
 </details>
 
 
-<br><br>
+<br><br> -->
 
 
-<details class="--COMMUNITY--">
+<!-- <details class="--COMMUNITY--">
   <summary><h1>Community</h1></summary>
   <ul>
     <li>
@@ -235,7 +249,7 @@
 </details>
 
 
-<br><br>
+<br><br> -->
 
 
 <!--
@@ -257,16 +271,5 @@
 </a>
 
 .
-
-<pre align="center">
-
-
-██╗  ██╗ ██╗ ███╗   ███╗     ██████╗   █████╗  ███╗   ██╗ ██╗  ██╗
-██║ ██╔╝ ██║ ████╗ ████║     ██╔══██╗ ██╔══██╗ ████╗  ██║ ██║ ██╔╝
-█████╔╝  ██║ ██╔████╔██║     ██████╔╝ ███████║ ██╔██╗ ██║ █████╔╝ 
-██╔═██╗  ██║ ██║╚██╔╝██║     ██╔══██╗ ██╔══██║ ██║╚██╗██║ ██╔═██╗ 
-██║  ██╗ ██║ ██║ ╚═╝ ██║     ██████╔╝ ██║  ██║ ██║ ╚████║ ██║  ██╗
-╚═╝  ╚═╝ ╚═╝ ╚═╝     ╚═╝     ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝
-</pre>
 
 -->
