@@ -18,9 +18,10 @@
 
 
 <span>
-  kimbank@kimbank.dev <br/>
+  kimbank@kimbank.dev <br/><br/>
   안녕하세요. <br/>
-  こんにちは。
+  Hello. <br/>
+  こんにちは。 <br/>
   <!-- 
   <a href="mailto:kimeunhang@inha.edu" target="3776AB"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   -->
